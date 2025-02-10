@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Coding GIF" width="200" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Coding GIF" width="500" />
 </p>
 
 ## 🚀 About Me
@@ -34,9 +34,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishan-koiry&show_icons=true&theme=dark&hide=issues,contribs" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishan-koiry&theme=dark" alt="GitHub Streak" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishan-koiry&layout=compact&theme=dark" alt="Top Languages" />
 </p>
