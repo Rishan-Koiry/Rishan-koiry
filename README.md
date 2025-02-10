@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Coding GIF" width="500" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Coding GIF"  />
 </p>
 
 ## 🚀 About Me
