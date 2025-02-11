@@ -1,4 +1,5 @@
-<div align="center">
+<body background: black>
+  <div align="center">
   <h1>👋 Hi, I'm <a href="https://github.com/Rishan-Koiry">Rishan Koiry</a></h1>
 
   
@@ -87,3 +88,4 @@
   <i>⭐️ Designed and maintained by <a href="https://github.com/Rishan-Koiry">Rishan Koiry</a></i>
 </div>
 
+<body/>
