@@ -1,4 +1,4 @@
-<body background: black>
+<body background-color: black>
   <div align="center">
   <h1>👋 Hi, I'm <a href="https://github.com/Rishan-Koiry">Rishan Koiry</a></h1>
 
