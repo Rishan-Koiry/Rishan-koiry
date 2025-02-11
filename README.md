@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hi, I'm <a href="https://github.com/Rishan-Koiry">Rishan Koiry</a></h1>
-  <img src="https://rishan-koiry-web.netlify.app/assets/image.png" style="border-radius: 50%; border: 5px solid black;"/>
 
   
   <p>🚀 Tech Enthusiast | 💻 Developer | 🎓 Lifelong Learner</p>
