@@ -1,6 +1,6 @@
 <body background-color: black>
   <div align="center">
-  <h1>👋 Hi, I'm <a href="https://github.com/Rishan-Koiry">Rishan Koiry</a></h1>
+  <h1>👋 Hi, I'm <a color: gray href="https://github.com/Rishan-Koiry">Rishan Koiry</a></h1>
 
   
   <p>🚀 Tech Enthusiast | 💻 Developer | 🎓 Lifelong Learner</p>
