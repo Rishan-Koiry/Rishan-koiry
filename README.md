@@ -16,7 +16,7 @@
 
 ## ⚡ <span style="font-size: 2rem;">**Tech Stack**</span>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,python,github,mongodb,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,github" />
 </p>
 
 ---
