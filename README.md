@@ -1,5 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm <a href="https://github.com/Rishan-Koiry">Rishan Koiry</a></h1>
+  <img src="https://rishan-koiry-web.netlify.app/assets/image.png"/>
   
   <p>🚀 Tech Enthusiast | 💻 Developer | 🎓 Lifelong Learner</p>
    <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImNsaWNraGVyZSIsInRleHQiOiJSaXNoYW4lMjBLb2lyeSIsImlhdCI6MTczOTI4ODgwNX0.SyhdtLeUyaEmZ2Dx6ln1-tt47hp-tcQPxCvmy45-3NA"/>
