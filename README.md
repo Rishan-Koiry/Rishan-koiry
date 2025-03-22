@@ -1,6 +1,6 @@
-<!-- Typing Animation for Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=2000&size=40&pause=500&color=222831&center=true&vCenter=true&width=700&lines=Hey!+I'm+Rishan+Koiry.!;A+Tech+Enthusiast+%F0%9F%9A%80;A+Passionate+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" width="7000px">
+  <h1 style="font-family: 'Fira Code', monospace; color: #00ADB5;">Hey! I'm Rishan Koiry.</h1>
+  <p style="font-family: Arial, sans-serif; font-size: 1.5rem; color: #222831;">A Passionate Developer, Lifelong Learner, and Tech Enthusiast!</p>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ## ⚡ <span style="font-size: 2rem; color: #00ADB5;">**Tech Stack**</span>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,github" />
 </p>
 
 ---
@@ -46,12 +46,10 @@
 ---
 
 ## 🌟 <span style="font-size: 2rem; color: #00ADB5;">**Fun Facts**</span>
-<p align="center">
-  <img src="https://media.giphy.com/media/xT5LMl7riS3z8dMP0g/giphy.gif" width="50px"> 🏏 **Cricket Enthusiast**
-  <img src="https://media.giphy.com/media/xT5LMl7riS3z8dMP0g/giphy.gif" width="50px"> 🏸 **Badminton Player**
-  <img src="https://media.giphy.com/media/xT5LMl7riS3z8dMP0g/giphy.gif" width="50px"> 🎮 **Gaming Addict**
-  <img src="https://media.giphy.com/media/xT5LMl7riS3z8dMP0g/giphy.gif" width="50px"> 🎡 **Loves Movies & Series**
-</p>
+- 🏏 **Cricket Enthusiast**
+- 🏸 **Badminton Player**
+- 🎮 **Gaming Addict**
+- 🎬 **Loves Movies & Series**
 
 ---
 
@@ -66,10 +64,6 @@
   <a href="https://github.com/Rishan-Koiry">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPJEq6xx7Hba5le/giphy.gif" width="500px">
 </p>
 
 ---
