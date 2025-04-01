@@ -122,7 +122,7 @@ me.say_hi()
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🏆 **Achievements** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" />
+## 🏆 **Achievements** 
 
 <div align="center">
   <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width="80" />
