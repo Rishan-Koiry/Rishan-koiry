@@ -160,7 +160,7 @@ me.say_hi()
         <ul>
           <li>🏏 <b>Cricket Enthusiast</b> - Weekend warrior on the pitch</li>
           <li>🏸 <b>Badminton Player</b> - Never miss a smash opportunity</li>
-          <li>🎮 <b>Gaming Addict</b> - Can beat you at Call of Duty</li>
+          <li>🎮 <b>Gaming Addict</b> - Can beat you at Free Fire</li>
           <li>🎬 <b>Movie Buff</b> - Christopher Nolan films are my favorite</li>
           <li>🎵 <b>Music Lover</b> - Coding with lofi beats is my style</li>
         </ul>
