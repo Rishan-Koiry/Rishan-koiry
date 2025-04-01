@@ -151,49 +151,6 @@ me.say_hi()
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> **Fun Facts** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/3oEjI67Egb8G9jqs3m/giphy.gif" width="130" />
-      </td>
-      <td>
-        <ul>
-          <li>🏏 <b>Cricket Enthusiast</b> - Weekend warrior on the pitch</li>
-          <li>🏸 <b>Badminton Player</b> - Never miss a smash opportunity</li>
-          <li>🎮 <b>Gaming Addict</b> - Can beat you at Free Fire</li>
-          <li>🎬 <b>Movie Buff</b> - Christopher Nolan films are my favorite</li>
-          <li>🎵 <b>Music Lover</b> - Coding with lofi beats is my style</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="30"> **Connect With Me** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rishan-koiry" target="_blank">
-    <img src="https://i.imgur.com/kF9HMpz.gif" width="70px" height="70px" alt="linkedin" />
-  </a>
-  <a href="mailto:koiryrishan1@gmail.com" target="_blank">
-    <img src="https://i.imgur.com/1ZUqWSP.gif" width="70px" height="70px" alt="gmail" />
-  </a>
-  <a href="https://github.com/Rishan-Koiry" target="_blank">
-    <img src="https://i.imgur.com/VxVOcS7.gif" width="70px" height="70px" alt="github" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://i.imgur.com/UjG4HjI.gif" width="70px" height="70px" alt="twitter" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://i.imgur.com/CUldaiU.gif" width="70px" height="70px" alt="instagram" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishan-Koiry&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
