@@ -29,8 +29,8 @@ class RishanKoiry:
     def __init__(self):
         self.name = "Rishan Koiry"
         self.role = "Django & Python Developer"
-        self.code = ["Python", "Django", "HTML", "CSS", "JavaScript"]
-        self.current_project = "Building E-Commerce Platform with Django REST"
+        self.code = ["Python", "Django", "HTML", "CSS"]
+        self.current_project = "Building E-Commerce Platform with Django"
         self.challenge = "Contributing to at least 5 open source projects in 2025"
         
     def daily_routine(self):
@@ -52,10 +52,10 @@ me.say_hi()
   <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Coding Together" height="40" />
 </div>
 
-- 🔭 Currently building **Django-powered web applications with REST APIs**
-- 🌱 Mastering **Advanced Python, Django REST framework, and React**
+- 🔭 Currently building **Django-powered web applications**
+- 🌱 Mastering **Advanced Python and Django**
 - 👯 Looking to collaborate on **Open Source Projects and Hackathons**
-- 💡 Exploring **Cloud Architecture, Docker & Kubernetes for Django deployment**
+- 💡 Exploring **Cloud Architecture for Django deployment**
 - ⚡ Fun fact: **I can solve coding problems faster while listening to lofi beats**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -65,31 +65,25 @@ me.say_hi()
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="33%">
+      <td valign="top" width="25%">
         <h3>Frontend</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="HTML">
-          <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS">
-          <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript">
-          <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React">
+          <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" alt="HTML">
+          <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" alt="CSS">
         </div>
       </td>
-      <td valign="top" width="33%">
+      <td valign="top" width="50%">
         <h3>Backend</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="Python">
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Django">
-          <img src="https://symbols.getvecta.com/stencil_92/77_postgresql-icon.79f6e6df88.svg" width="50" alt="PostgreSQL">
-          <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="50" alt="Node.js">
+          <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" alt="Python">
+          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="60" alt="Django">
+          <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60" alt="Flask">
         </div>
       </td>
-      <td valign="top" width="33%">
+      <td valign="top" width="25%">
         <h3>Tools</h3>
         <div align="center">
           <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" alt="Git">
-          <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50" alt="VS Code">
-          <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" alt="Docker">
-          <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" alt="AWS">
         </div>
       </td>
     </tr>
@@ -97,21 +91,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap,react,postgresql,git,github,vscode,docker,aws,nginx&perline=5" />
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> **Projects** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
-
-<div align="center">
-
-| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="20"> | Project | Description | Demo |
-|---------|----------|-------------|------|
-| <img src="https://i.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.webp" width="40" /> | **E-commerce Platform** | Full-featured Django store with REST API, payment integration, and user authentication | [<img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" width="150" />](https://github.com/Rishan-Koiry) |
-| <img src="https://i.giphy.com/media/l0HlQCj3dNisEYmli/giphy.webp" width="40" /> | **Social Media Dashboard** | Social analytics platform with real-time monitoring using Django and WebSockets | [<img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" width="150" />](https://github.com/Rishan-Koiry) |
-| <img src="https://i.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.webp" width="40" /> | **Task Management System** | Comprehensive project management app with Django, AJAX, and React | [<img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" width="150" />](https://github.com/Rishan-Koiry) |
-
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,git&perline=6" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -163,11 +143,11 @@ me.say_hi()
 
 <img align="right" height="150" width="150" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
-- 🚀 Building **Django REST framework APIs** with JWT authentication
-- 📱 Integrating **React front-end** with Django backends
-- 🧠 Exploring **AI & Machine Learning** integration in Django applications
-- 🌐 Mastering **AWS cloud services** for scalable application deployment
-- 📊 Implementing **Data Visualization** with D3.js and Django
+- 🚀 Building **Django applications** with advanced features
+- 📱 Integrating **responsive design principles** in HTML/CSS
+- 🧠 Exploring **Flask microservices** architecture
+- 🌐 Mastering **deployment strategies** for Django applications
+- 📊 Implementing **Data Visualization** in Django applications
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -183,7 +163,7 @@ me.say_hi()
         <ul>
           <li>🏏 <b>Cricket Enthusiast</b> - Weekend warrior on the pitch</li>
           <li>🏸 <b>Badminton Player</b> - Never miss a smash opportunity</li>
-          <li>🎮 <b>Gaming Addict</b> - Can beat you at Call of Duty</li>
+          <li>🎮 <b>Gaming Addict</b> - Can beat you at Free Fire</li>
           <li>🎬 <b>Movie Buff</b> - Christopher Nolan films are my favorite</li>
           <li>🎵 <b>Music Lover</b> - Coding with lofi beats is my style</li>
         </ul>
