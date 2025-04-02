@@ -161,7 +161,8 @@ me.say_hi()
           <li>🏏 <b>Cricket Enthusiast</b> - Weekend warrior on the pitch</li>
           <li>🏸 <b>Badminton Player</b> - Never miss a smash opportunity</li>
           <li>🎮 <b>Gaming Addict</b> - Can beat you at Free Fire</li>
-          <li>🎬 <b>Movie Buff</b> - Christopher Nolan films are my favorite</li>
+          <li>🎬 <b>Movie Buff</b> - Alice in Borderland
+ the best series i ever seen </li>
           <li>🎵 <b>Music Lover</b> - Coding with lofi beats is my style</li>
         </ul>
       </td>
