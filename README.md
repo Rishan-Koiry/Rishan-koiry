@@ -36,17 +36,17 @@ class RishanKoiry:
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,git,github,sqlite" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishan-Koiry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishan-Koiry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" alt="GitHub Stats" />
 </div>
-
+<br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishan-Koiry&theme=tokyo-night" width="98%" alt="GitHub Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishan-Koiry&theme=tokyo-night" width="70%" alt="GitHub Contributions" />
 </div>
 
 ## 🏆 Achievements
@@ -67,17 +67,8 @@ class RishanKoiry:
     <tr>
       <td align="center" width="33%">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-        <br>Scalable Django Apps
       </td>
-      <td align="center" width="33%">
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-        <br>Flask Microservices
-      </td>
-      <td align="center">
-        <img width="30" src="image2.png" />
-        <br>Workflow Automation
-      </td>
-    </tr>
+     
   </table>
 </div>
 
