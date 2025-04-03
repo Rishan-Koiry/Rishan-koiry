@@ -1,3 +1,5 @@
+<body style="color: white;">
+
 <div align="center">
 
 # 👋 Rishan Koiry
@@ -64,7 +66,7 @@ class RishanKoiry:
   <table>
     <tr>
       <td align="center" width="33%">
-        <img width="30" src="image3.png" />
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
         <br>Scalable Django Apps
       </td>
       <td align="center" width="33%">
@@ -108,3 +110,4 @@ class RishanKoiry:
 <img src="https://komarev.com/ghpvc/?username=Rishan-Koiry&label=Profile%20Views&color=00ADB5&style=flat" alt="Profile views" />
 
 </div>
+</body>
