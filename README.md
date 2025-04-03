@@ -4,7 +4,11 @@
 
 # 👋 Rishan Koiry
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=2000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Expert;Web+Development+Wizard;Open+Source+Contributor)](https://git.io/typing-svg)
+<div style="text-align: center; margin-top: 30px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=2000&pause=1000&color=6A11CB&background=2575FC00&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Learner;Web+Development+Wizard;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div></a>
 
 <a href="https://rishankoiry.vercel.app/">
   <img src="image.png" width="200px" style="border-radius:50%; border: 5px solid #00ADB5;">
@@ -41,12 +45,9 @@ class RishanKoiry:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishan-Koiry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" alt="GitHub Stats" />
-</div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishan-Koiry&theme=tokyo-night" width="70%" alt="GitHub Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishan-Koiry&theme=tokyo-night" width="100%" alt="GitHub Contributions" />
 </div>
 
 ## 🏆 Achievements
