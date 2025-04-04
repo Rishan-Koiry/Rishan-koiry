@@ -98,7 +98,7 @@ class RishanKoiry:
   
 ### 🎉 Thanks for visiting! Let's build something awesome together! 🚀
 
-<img src="https://komarev.com/ghpvc/?username=Rishan-Koiry&label=Profile%20Views&color=00ADB5&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Rishan-Koiry&label=Profile%20Views&color=00ADB5&style=flat" alt="Profile views's" />
 
 </div>
 </body>
