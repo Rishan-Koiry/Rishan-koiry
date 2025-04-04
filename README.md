@@ -5,16 +5,13 @@
 # 👋 Rishan Koiry
 
 <a href="https://rishankoiry.vercel.app/">
-  <img src="https://rishankoiry.vercel.app/assets/img/logo.png" width="200px" style="border-radius:50%; border: 5px solid #00ADB5;">
+  <img src="image.jpg" width="100%" style="border-radius:50%; border: 5px solid #00ADB5;">
 </a>
 <div style="text-align: center; margin-top: 30px;">
   <a href="https://git.io/typing-svg" style="display: inline-block; box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=2000&pause=1000&color=6A11CB&background=2575FC00&center=true&vCenter=true&width=600&lines=Python+Developer!;Django+Learner!;Web+Development+Wizard!" alt="Typing SVG" />
   </a>
 </div>
-
-
-
 
 </div>
 
