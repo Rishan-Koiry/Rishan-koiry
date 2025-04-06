@@ -5,7 +5,7 @@
 # 👋 Rishan Koiry
 
 <a href="https://rishankoiry.vercel.app/">
-  <img src="image.png" width="100%" style="border-radius:50%; border: 5px solid #00ADB5;">
+  <img src="image.png" width="50%" height="50%" style="border-radius:50%; border: 5px solid #00ADB5;">
 </a>
 <div style="text-align: center; margin-top: 30px;">
   <a href="https://git.io/typing-svg" style="display: inline-block; box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);">
