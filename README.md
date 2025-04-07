@@ -27,7 +27,7 @@ class RishanKoiry:
         return ["☕ Coffee", "💻 Code", "🐞 Debug", "🔄 Repeat"]
 ```
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* – RishanKoiry
 
 <div align="center">
   <table>
