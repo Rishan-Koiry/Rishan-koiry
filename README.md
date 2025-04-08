@@ -86,7 +86,7 @@ class RishanKoiry:
       <img src="https://github-readme-stats.vercel.app/api?username=Rishan-Koiry&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=Rishan's%20GitHub%20Stats&icon_color=00FFFF" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishan-Koiry&theme=tokyonight&hide_border=true&stroke=0000&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishan-Koiry&theme=tokyonight&hide_border=true&stroke=0000&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> -->
     </td>
   </tr>
 </table>
