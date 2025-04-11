@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Rishan Koiry
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello You! I'm Rishan Koiry
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rishankoiry.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=white)](https://rishankoiry.vercel.app)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rishankoiry)
