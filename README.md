@@ -21,7 +21,7 @@ class RishanKoiry:
     def __init__(self):
         self.name = "Rishan Koiry"
         self.role = "Django & Python Developer"
-        self.location = "India"
+        self.location = "Bangladesh"
         self.website = "https://rishankoiry.vercel.app"
         
     def get_skills(self):
