@@ -1,125 +1,73 @@
 <div align="center">
-  
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello You! I'm Rishan Koiry
+
+![GitHub Header Banner](<github-header-banner%20(1).png>)
+
+# Hello, I'm Rishan Koiry 👋
+
+**Python Developer | Django Expert | Full-Stack Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rishankoiry.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=white)](https://rishankoiry.vercel.app)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rishankoiry)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishankoiry@gmail.com)
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=2000&pause=1000&color=64FFDA&background=0A192F00&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Expert;Web+Development+Wizard!" alt="Typing SVG" />
-</a>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishan-Koiry)
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me 
+---
 
-```python
-class RishanKoiry:
-    def __init__(self):
-        self.name = "Rishan Koiry"
-        self.role = "Django & Python Developer"
-        self.location = "Bangladesh"
-        self.website = "https://rishankoiry.vercel.app"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "HTML", "CSS", "JavaScript"],
-            "frameworks": ["Django", "Flask", "Bootstrap"],
-            "databases": ["SQLite", "PostgreSQL", "MySQL"],
-            "tools": ["Git", "GitHub", "VS Code", "Docker"]
-        }
-        
-    def current_focus(self):
-        return {
-            "project": "Building E-Commerce Platform with Django",
-            "learning": "Advanced Django REST Framework & React",
-            "goal_2025": "Contribute to 5+ open source projects"
-        }
-        
-    def daily_routine(self):
-        return ["☕ Coffee", "💻 Code", "🐞 Debug", "📚 Learn", "🔄 Repeat"]
-```
+## 🚀 About Me
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+I'm a passionate Python developer specializing in Django web development, dedicated to building scalable and efficient web applications. Based in Bangladesh, I focus on creating clean, maintainable code and delivering high-quality solutions.
+
+### 💼 What I Do
+
+- 🔭 Building **Django-powered web applications**
+- 🌱 Mastering **Advanced Python & Django Patterns**
+- 👯 Contributing to **open-source projects**
+- 💡 Exploring **Flask & FastAPI Development**
+
+### 🎯 Current Focus
+
+- **Project**: Building E-Commerce Platform with Django
+- **Learning**: Advanced Django REST Framework & React
+- **Goal 2025**: Contribute to 5+ open source projects
+
+> _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">What I Do</h3>
-        <ul>
-          <li>🔭 Building <b>Django-powered web applications</b></li>
-          <li>🌱 Mastering <b>Advanced Python & Django Patterns</b></li>
-          <li>👯 Collaborating on <b>open-source projects</b></li>
-          <li>💡 Exploring <b>Flask & FastAPI Development</b></li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3 align="center">Who I Am</h3>
-        <ul>
-          <li>🚀 Passionate about <b>clean, efficient code</b></li>
-          <li>🎯 Focused on <b>scalable backend solutions</b></li>
-          <li>📈 Committed to <b>continuous improvement</b></li>
-          <li>⚡ Fun fact: <b>I code better with lofi beats 🎷</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishan-Koiry&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats&icon_color=64FFDA&bg_color=0a192f&text_color=8892b0&title_color=64FFDA" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishan-Koiry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&text_color=8892b0&title_color=64FFDA" alt="Most Used Languages" width="49%" />
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tech Stack
 
 <div align="center">
-  <h3>Primary Skills</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
-  <h3>Database & Tools</h3>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishan-Koiry&theme=react-dark&custom_title=Contribution%20Graph&hide_border=true&radius=10&line=64FFDA&point=FFFFFF&area=true&area_color=64FFDA" width="100%" alt="GitHub Contributions" />
 </div>
-
-<details>
-  <summary><b>⚡ Visual Skill Set</b></summary>
-  <div align="center">
-    <br>
-    <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,git,github,sqlite,postgres,vscode,docker" />
-  </div>
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishan-Koiry&theme=react-dark&custom_title=Rishan's%20Contribution%20Graph&hide_border=true&radius=10&line=64FFDA&point=FFFFFF&area=true&area_color=64FFDA" width="100%" alt="GitHub Contributions" />
-  
-  <br><br>
-  <table>
-    <tr>
-      <td width="53%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rishan-Koiry&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=Rishan's%20GitHub%20Stats&icon_color=64FFDA&bg_color=0a192f&text_color=8892b0&title_color=64FFDA" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishan-Koiry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&text_color=8892b0&title_color=64FFDA" alt="Most Used Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> Professional Achievements
 
