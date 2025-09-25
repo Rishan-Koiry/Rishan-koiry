@@ -13,28 +13,31 @@
 ---
 
 ## 🚀 About Me
+
 I’m a **Python/Django developer** passionate about building clean, scalable, and efficient web applications.  
 Focused on writing maintainable code and delivering client-ready solutions.
 
 ---
 
-## 🛠 Tech I Work With  
+## 🛠 Tech I Work With
 
 <div align="center">
 
-### 🖥️ Languages & Frameworks  
+### 🖥️ Languages & Frameworks
+
 <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,html,css,tailwind" />
 
-### 🗄️ Databases  
+### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
 
-### ⚙️ Tools  
+### ⚙️ Tools
+
 <img src="https://skillicons.dev/icons?i=git,docker,vscode,github" />
 
 </div>
 
 ---
-
 
 ## 🌟 Featured Projects
 
@@ -43,7 +46,6 @@ Focused on writing maintainable code and delivering client-ready solutions.
 - 🔐 **Auth System** – Secure login with 2FA & social auth.
 - 🤖 **API Service** – RESTful APIs with Django REST Framework.
 - 🌐 **Website building** – I create responsive and beautiful animation website.
-
 
 ---
 
@@ -66,5 +68,15 @@ Focused on writing maintainable code and delivering client-ready solutions.
 
 ---
 
-✨ Thanks for visiting! Let’s build something amazing together.
- **Have a Good day !**
+## 🐍 Watch My Contributions Snake
+
+<div align="center">
+  
+![Snake animation](https://github.com/Rishan-Koiry/Rishan-Koiry/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+✨ Thanks for visiting! Let’s build something amazing together.  
+**Have a Good day !**
