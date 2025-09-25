@@ -1,6 +1,11 @@
-<div align="center">
+<div style="background-image: url('bg.png'); background-size: cover; b---
 
-![Background](bg.png)
+✨ Thanks for visiting! Let's build something amazing together.
+**Have a Good day !**
+
+</div>round-repeat: no-repeat; background-attachment: fixed; background-position: center; min-height: 100vh; padding: 20px;">
+
+<div align="center">
 
 ![GitHub Header Banner](<github-header-banner%20(1).png>)
 
