@@ -1,9 +1,5 @@
-<div style="background-image: url('bg.png'); background-size: cover; b---
 
-✨ Thanks for visiting! Let's build something amazing together.
-**Have a Good day !**
 
-</div>round-repeat: no-repeat; background-attachment: fixed; background-position: center; min-height: 100vh; padding: 20px;">
 
 <div align="center">
 
@@ -45,7 +41,12 @@ Focused on writing maintainable code and delivering client-ready solutions.
 </div>
 
 ---
+<div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rishan-Koiry&layout=compact&langs_count=8&theme=tokyonight" alt="Rupok's GitHub languages" height="300px" />
+</div>
 
+
+---
 ## 🌟 Featured Projects
 
 - 🛒 **E-Commerce Platform** – Django-based store with payment integration.
