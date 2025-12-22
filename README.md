@@ -1,13 +1,13 @@
-
-
-
 <div align="center">
+
+# 👋 Hey, I'm Rishan Koiry
 
 **Python Developer | Django Expert | Full-Stack Enthusiast**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rishankoiry.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=white)](https://rishankoiry.vercel.app)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rishankoiry)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishankoiry@gmail.com)
+Building scalable web applications with clean code and modern architecture
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-64ffda?style=for-the-badge)](https://rishankoiry.vercel.app)
+[![Email](https://img.shields.io/badge/✉️_Email-Get_in_Touch-D14836?style=for-the-badge)](mailto:rishankoiry@gmail.com)
 
 </div>
 
@@ -15,64 +15,74 @@
 
 ## 🚀 About Me
 
-I’m a **Python/Django developer** passionate about building clean, scalable, and efficient web applications.  
-Focused on writing maintainable code and delivering client-ready solutions.
+I'm a passionate **Python/Django developer** who loves transforming ideas into production-ready applications. With a focus on **clean architecture**, **scalability**, and **user experience**, I create web solutions that are both powerful and maintainable.
+
+- 🔭 Currently working on enterprise-grade Django applications
+- 🌱 Exploring microservices architecture and cloud deployment
+- 💡 Passionate about writing self-documenting code
+- 🎯 Always learning, always building
 
 ---
 
-## 🛠 Tech I Work With
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🖥️ Languages & Frameworks
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,js,react,html,css,tailwind" />
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,github" />
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rishan-Koiry&layout=compact&langs_count=8&theme=tokyonight" alt="Rupok's GitHub languages" height="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishan-Koiry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishan-Koiry&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
-
----
-## 🌟 Featured Projects
-
-- 🛒 **E-Commerce Platform** – Django-based store with payment integration.
-- 📊 **Analytics Dashboard** – Real-time business metrics visualization.
-- 🔐 **Auth System** – Secure login with 2FA & social auth.
-- 🤖 **API Service** – RESTful APIs with Django REST Framework.
-- 🌐 **Website building** – I create responsive and beautiful animation website.
-
----
-
-## 📬 Let’s Connect
-
 <div align="center">
-  <a href="https://rishankoiry.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-64FFDA?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"/>
-  </a>
-  <a href="mailto:rishankoiry@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Rishan-Koiry" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.youtube.com/@Rishankoiry" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
 </div>
 
 ---
 
-✨ Thanks for visiting! Let’s build something amazing together.
-**Have a Good day !**
+## 📬 Let's Connect
+
+<div align="center">
+
+Got a project in mind? Let's collaborate and build something extraordinary!
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-64FFDA?style=for-the-badge)](https://rishankoiry.vercel.app)
+[![Email](https://img.shields.io/badge/📧_Email-rishankoiry@gmail.com-D14836?style=for-the-badge)](mailto:rishankoiry@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_Me-100000?style=for-the-badge)](https://github.com/Rishan-Koiry)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rishan-Koiry&color=64ffda&style=for-the-badge)
+
+**Thanks for stopping by! Have an amazing day! 🚀**
+
+</div>
