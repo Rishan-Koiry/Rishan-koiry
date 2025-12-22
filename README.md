@@ -3,8 +3,6 @@
 
 <div align="center">
 
-![GitHub Header Banner](<github-header-banner%20(1).png>)
-
 **Python Developer | Django Expert | Full-Stack Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rishankoiry.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=white)](https://rishankoiry.vercel.app)
