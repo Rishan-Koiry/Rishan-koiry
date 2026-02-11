@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Rishan Koiry</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Web Architect</h3>
+<h1 align="center">Hi 👋, I'm Rishan Koiry!</h1>
+<h3 align="center">🚀 Full Stack Developer </h3>
 
 <p align="center">
   <a href="https://rishankoiry.vercel.app">
@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 💻 Full-stack developer with **2+ years of experience**
+- 💻 Full-stack developer with **2.5+ years of experience**
 - ⚡ Building **Scalable Web Apps, AI Apps & Blockchain Apps**
 - 🤖 AI + ChatGPT + Web Integration Experience
 - 🧠 Interested in **Deep Learning, Recommendation Systems & Reinforcement Learning**
@@ -23,12 +23,7 @@
 
 ---
 
-## 📫 Contact & Links
 
-🌐 Portfolio → **https://rishankoiry.vercel.app**  
-📧 Email → **koiryrishan1@gmail.com**
-
----
 
 <!-- ================= TECH STACK (YOUR FAVORITE STYLE) ================= -->
 <h2 align="center">🛠 Languages and Tools</h2>
@@ -135,10 +130,6 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## 💡 Developer Quote
-> First solve the problem, then write the code.
 
 ---
 
