@@ -66,6 +66,4 @@
 
 ---
 
-<p align="center">
-⭐ Made with ❤️ by <b>Rishan Koiry</b>
-</p>
+
