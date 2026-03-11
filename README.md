@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 💻 Full-stack developer with **2.5+ years of experience**
+- 💻 Full-stack developer with **3 years of experience**
 - ⚡ Building **Scalable Web Apps, AI Apps & Blockchain Apps**
 - 🤖 AI + ChatGPT + Web Integration Experience
 - 🧠 Interested in **Deep Learning, Recommendation Systems & Reinforcement Learning**
