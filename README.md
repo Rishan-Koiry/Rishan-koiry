@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">🛠 Languages & Tools</h2>
+<h2 align="center">🛠 Languages & Framework & Tools</h2>
 
 <div align="center">
 <table>
