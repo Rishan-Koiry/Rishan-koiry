@@ -55,9 +55,9 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <!-- <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Rishan-Koiry&theme=highcontrast&hide_border=true&border_radius=&short_numbers=true&card_width=850&card_height=150" />
-  </a> -->
+  </a>
 </p>
 
 
