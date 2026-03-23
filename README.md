@@ -152,7 +152,7 @@ quote    : "I turn caffeine into production-ready code ☕ → 💻"
 
 ---
 
-## 🤝 Let's Connect & Build Together
+## 🤝 Let's Connect 
 
 <div align="center">
 
