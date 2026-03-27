@@ -54,7 +54,6 @@ exploring:
   - Advanced System Design
   - Smart Contracts & DeFi
 
-quote    : "I turn caffeine into production-ready code ☕ → 💻"
 ```
 
 ---
@@ -172,5 +171,5 @@ quote    : "I turn caffeine into production-ready code ☕ → 💻"
 
 </div>
 
-<!-- ============ GRADIENT WAVE FOOTER ============ -->
+<!-- ============ GRADIENT WAVE FOOTER ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=26&fontColor=fff&fontAlignY=50&desc=Let%E2%80%99s%20build%20something%20amazing%20together&descColor=adbac7&descSize=15&descAlignY=72&animation=fadeIn&reversal=true" width="100%"/>
