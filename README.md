@@ -136,18 +136,6 @@ exploring:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Rishan-Koiry/Typing-speed-test-by-Django">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishan-Koiry&repo=Typing-speed-test-by-Django&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" />
-</a>
-<a href="https://github.com/Rishan-Koiry/Pizza-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishan-Koiry&repo=Pizza-website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" />
-</a>
-
-</div>
 
 ---
 
