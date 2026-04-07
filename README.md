@@ -139,7 +139,7 @@ exploring:
 
 
 
-## 🤝 Let's Connect 
+## 🤝 Let's Contact 
 
 <div align="center">
 
