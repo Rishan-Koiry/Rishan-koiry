@@ -40,7 +40,7 @@
 ```yaml
 name     : Rishan Koiry
 role     : Full Stack Developer
-xp       : 3+ years
+xp       : 2.7+ years
 passion  : Open Source & Scalable Systems
 
 crafting :
