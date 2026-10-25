@@ -3,9 +3,9 @@
 <!-- ============================ ANIMATED HEADER ============================ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Rishan%20Koiry&fontSize=72&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Blockchain%20Explorer&descAlignY=56&descSize=18&fontColor=ffffff&descColor=adbac7&animation=fadeIn" width="100%"/>
 
-<!-- ============================ TYPING INTRO ============================ -->
+<!-- ============================ TERMINAL INTRO ============================ -->
 <a href="https://rishankoiry.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Rishan+%F0%9F%91%8B;I+build+fast%2C+elegant+web+products;JavaScript+%E2%80%A2+Python+%E2%80%A2+Django+%E2%80%A2+React;Thoughtful+UI.+Solid+backends.;Open+to+freelance+%26+collaboration+%F0%9F%A4%9D" alt="Typing intro" />
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal: Rishan Koiry, full-stack developer from Dhaka, available for freelance and full-time work"/>
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 <!-- ============================ QUICK BADGES ============================ -->
 
 <a href="https://rishankoiry.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rishankoiry.vercel.app-0b0b0d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://x.com/rishankoiry"><img src="https://img.shields.io/badge/X-@rishankoiry-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://x.com/RisanKoiry"><img src="https://img.shields.io/badge/X-@RisanKoiry-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20BD-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available"/>
 
@@ -29,17 +29,6 @@
 I'm **Rishan Koiry**, a full-stack developer from **Dhaka, Bangladesh** 🇧🇩. I build fast, accessible web products end to end — from clean, thoughtful interfaces to reliable, scalable backends.
 
 I care about the details that make software feel good: quick load times, accessible design, readable code, and clear communication with the people I build for. Lately I've been exploring how **AI** and **blockchain** can make products smarter and more trustworthy.
-
-```js
-const rishan = {
-  role: "Full-Stack Developer",
-  location: "Dhaka, Bangladesh",
-  coreStack: ["JavaScript", "Python", "Django", "React"],
-  exploring: ["AI integrations", "Blockchain / Web3"],
-  values: ["Performance", "Accessibility", "Clean code", "Clear communication"],
-  openTo: ["Freelance projects", "Collaborations", "Full-time roles"],
-};
-```
 
 <br/>
 
@@ -68,12 +57,26 @@ const rishan = {
   </tr>
 </table>
 
-### 💼 How I Work With Clients
+### 💼 How a Project With Me Goes
 
-- **Clear communication** — regular updates, no surprises, honest timelines.
-- **Quality first** — clean, documented, maintainable code you can build on.
-- **Performance & accessibility** — fast sites that everyone can use.
-- **Ongoing support** — I'm around after launch for fixes and improvements.
+```mermaid
+flowchart LR
+    A["💬 Discovery call"] --> B["📝 Plan & estimate"]
+    B --> C["🎨 Design"]
+    C --> D["⚙️ Build<br/>weekly updates"]
+    D --> E["🧪 Test & review"]
+    E --> F["🚀 Launch"]
+    F --> G["🛠️ Support"]
+    E -. "changes?" .-> D
+
+    classDef step fill:#1a1b26,stroke:#7aa2f7,stroke-width:1.5px,color:#c0caf5;
+    classDef done fill:#1a1b26,stroke:#9ece6a,stroke-width:2px,color:#9ece6a;
+    class A,B,C,D,E,G step;
+    class F done;
+```
+
+> [!TIP]
+> **Have a project in mind?** Send me a short message on [X](https://x.com/RisanKoiry) or through my [portfolio](https://rishankoiry.vercel.app) with what you want to build and your timeline. I'll reply with a plan and an estimate.
 
 <br/>
 
@@ -95,7 +98,7 @@ const rishan = {
 
 **Tools & Deployment**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux,figma&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux,figma,godot&theme=dark" alt="Tools"/>
 
 </div>
 
@@ -143,9 +146,33 @@ const rishan = {
 ## 🌱 Currently
 
 - 🔭 Building full-stack products with **Django + React**
-- 🧠 Exploring **AI integrations** in real-world web apps
+- 🧠 Adding **AI features** to real-world web apps
 - ⛓️ Learning more about **blockchain & Web3**
-- ⚡ Fun fact: I obsess over Lighthouse scores 💯
+- 🎮 Making games with **Godot** on the side
+
+<details>
+<summary><b>🎮 Side quest: game dev (click to open)</b></summary>
+<br/>
+
+When I'm not building for the web, I'm making games in **Godot** with **GDScript**. Game dev keeps my logic sharp and teaches me a lot about performance, state and making things feel good to use, which I bring back to my web work.
+
+<img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot"/>
+
+</details>
+
+<details>
+<summary><b>⚡ Quick facts about me</b></summary>
+<br/>
+
+|              |                                                          |
+| ------------ | -------------------------------------------------------- |
+| 📍 Based in  | Dhaka, Bangladesh (GMT+6)                                |
+| 🗣️ Languages | Bangla, English                                          |
+| 💻 Editor    | VS Code                                                  |
+| 🌐 Portfolio | [rishankoiry.vercel.app](https://rishankoiry.vercel.app) |
+| 🤝 Open to   | Freelance, collaborations, full-time roles               |
+
+</details>
 
 <br/>
 
@@ -156,7 +183,7 @@ Have a project in mind, need a developer for your team, or just want to say hi? 
 <div align="center">
 
 <a href="https://rishankoiry.vercel.app"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://x.com/rishankoiry"><img src="https://img.shields.io/badge/Message%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://x.com/RisanKoiry"><img src="https://img.shields.io/badge/Message%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://github.com/Rishan-Koiry"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
